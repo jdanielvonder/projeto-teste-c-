@@ -1,0 +1,15 @@
+C:\Users\João\desktop\projetos\projeto-teste-c\bin\Debug\net6.0\projeto-teste-c.exe
+C:\Users\João\desktop\projetos\projeto-teste-c\bin\Debug\net6.0\projeto-teste-c.deps.json
+C:\Users\João\desktop\projetos\projeto-teste-c\bin\Debug\net6.0\projeto-teste-c.runtimeconfig.json
+C:\Users\João\desktop\projetos\projeto-teste-c\bin\Debug\net6.0\projeto-teste-c.dll
+C:\Users\João\desktop\projetos\projeto-teste-c\bin\Debug\net6.0\projeto-teste-c.pdb
+C:\Users\João\desktop\projetos\projeto-teste-c\obj\Debug\net6.0\projeto-teste-c.csproj.AssemblyReference.cache
+C:\Users\João\desktop\projetos\projeto-teste-c\obj\Debug\net6.0\projeto-teste-c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\João\desktop\projetos\projeto-teste-c\obj\Debug\net6.0\projeto-teste-c.AssemblyInfoInputs.cache
+C:\Users\João\desktop\projetos\projeto-teste-c\obj\Debug\net6.0\projeto-teste-c.AssemblyInfo.cs
+C:\Users\João\desktop\projetos\projeto-teste-c\obj\Debug\net6.0\projeto-teste-c.csproj.CoreCompileInputs.cache
+C:\Users\João\desktop\projetos\projeto-teste-c\obj\Debug\net6.0\projeto-teste-c.dll
+C:\Users\João\desktop\projetos\projeto-teste-c\obj\Debug\net6.0\refint\projeto-teste-c.dll
+C:\Users\João\desktop\projetos\projeto-teste-c\obj\Debug\net6.0\projeto-teste-c.pdb
+C:\Users\João\desktop\projetos\projeto-teste-c\obj\Debug\net6.0\projeto-teste-c.genruntimeconfig.cache
+C:\Users\João\desktop\projetos\projeto-teste-c\obj\Debug\net6.0\ref\projeto-teste-c.dll
